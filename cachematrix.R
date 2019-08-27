@@ -4,7 +4,6 @@
 ## cache$set - changes stored matrix
 ## cacheSolve - solves inverse
 
-
 ## Function create cache object active matrix
 makeCacheMatrix <- function(x = matrix()) {
 	inverse <- NULL
